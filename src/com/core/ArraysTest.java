@@ -1,9 +1,9 @@
-package com;
+package com.core;
 
 import java.math.BigInteger;
 import java.util.*;
 
-public class TreeTest {
+public class ArraysTest {
     public static void main(String[] args) {
         /*int[] x = {6,10,1,4,3};// 1,3,4,6,10
         int[] y = {2,5,3,1,6};

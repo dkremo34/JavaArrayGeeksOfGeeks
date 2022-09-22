@@ -30,11 +30,5 @@ public class Test {
         int integer = arr[0];
         int k = arr[integer-1];
         System.out.println(k);
-
-
-
-
-
-
     }
 }
